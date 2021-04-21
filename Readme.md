@@ -1,3 +1,5 @@
 # Git Course
 
 Este é um repositório teste para ensiar como o git funciona.
+
+Saiba mais em [mrinformaticarn.wix.com](https://mrinformatica.wix.com)
